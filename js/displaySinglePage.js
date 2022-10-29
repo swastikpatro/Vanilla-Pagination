@@ -1,5 +1,4 @@
 const container = document.querySelector('.container');
-const btnContainer = document.querySelector('.btn-container');
 
 function displaySinglePage(singleListData) {
   container.innerHTML = singleListData
