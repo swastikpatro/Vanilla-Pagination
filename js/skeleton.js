@@ -6,7 +6,7 @@ function handleLoad() {
     .map((single) => {
       return `
     <article class='skeleton-card'>
-    <div class='skeleton-img'></div>
+      <div class='skeleton-img'></div>
       <div class='skeleton-heading'></div>
       <div class="skeleton-btn"></div>
       </article>
