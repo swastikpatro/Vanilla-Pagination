@@ -430,6 +430,7 @@ Pagination
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 0.75rem;
+  opacity: 1;
 }
 
 .card h4 {
